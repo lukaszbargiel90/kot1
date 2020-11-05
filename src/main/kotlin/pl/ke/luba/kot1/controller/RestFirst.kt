@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController
 class RestFirst {
 
     @GetMapping("hello")
-    fun sayHello(): String = "hello"
+    fun sayHello(): String = "hello222"
 
 }
